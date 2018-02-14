@@ -125,6 +125,13 @@
 - [ ] Trim whitespaces, including whitespaces only lines
 - [ ] Cut / duplicate line(s) ([link](./xcode/shortcuts))
 
+## Safari
+- [ ] AdBlockPlus ([link](https://adblockplus.org))
+- [ ] RES ([link](https://redditenhancementsuite.com))
+- [ ] JSONAce ([link](https://github.com/jjlharrison/JSONAce))
+- [ ] Back/prev, sidebar, space, pipfier, abp, search bar, share, download
+
+
 ## Other apps
 - [ ] Fantastical2
   - [ ] Open & follow setup (hide notifications for calendar, reminders...)
@@ -134,7 +141,6 @@
   - [ ] Hide from dock
   - [ ] `⌘⌥⌃ [<-,->]` : half screen left/right
   - [ ] `⌘⌥⌃ Enter` : full screen
-- [ ] Pipfier : Add in Safari, left of adress bar
 - [ ] Tweetbot : Login
 - [ ] EasyRes : Start at login
 - [ ] Chrome : Login
