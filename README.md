@@ -96,6 +96,7 @@
 - [ ] brew cask install atom
 - [ ] brew cask install puush
 - [ ] brew cask install vlc
+- [ ] brew cask install provisionql
 
 ## Customize macOS
 - [ ] Faster Mission Control animations :
