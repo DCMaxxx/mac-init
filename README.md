@@ -106,6 +106,24 @@
 
 # Productivity apps configurations
 
+## Finder
+- [ ] Open documents with new window
+- [ ] Sidebar : Airdrop, Applications, iCloud Drive, Desktop, Documents, Downloads
+- [ ] Top bar : Back/Next, Path, Format, Actions, Share, Search
+- [ ] Folders : Always present by icon, Sort by name, Show informations, Use as defaults
+- [ ] Desktop : Text position right, Show informations, Spacing two before last
+
+# Dock
+- [ ] Finder, Mail, Slack, Messages, iTunes, Xcode, Gitup, iTerm
+
+## Mail
+- [ ] Display accounts bar
+- [ ] Rename accounts
+- [ ] Keep open to download archived mails
+
+## Slack
+- [ ] Log in
+
 ## Alfred
 - [ ] brew cask install alfred
   - [ ] Activate Powerpack
@@ -155,6 +173,5 @@
 # Background downloads
 
 - [ ] Open Photos, let it download iCloud library
-- [ ] Open Mail, let it download 50k mails,
 - [ ] Perform macOS upgrades if needed
 - [ ] (opt) Open and close every single app, because most have a welcome screen and you don't want to be bothered by it when you'll need the app.
